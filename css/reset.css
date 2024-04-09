@@ -297,7 +297,7 @@ input[type="search"]::-webkit-search-decoration {
 }
 
 /**
- * Remove inner padding and border in Firefox 3+.
+ * Remove inner padding and border in Firefox 3.
  */
 
 button::-moz-focus-inner,
